@@ -136,17 +136,3 @@ Commande envoyée à l'agent :
 * 🕷️ **Selenium** (Computer Vision)
 * ⚡ **Nuclei & Metasploit** (Offensive Tools)
 * 📊 **Streamlit** (Frontend Dashboard)
-
----
-
-*Projet réalisé par [Ton Nom/Pseudo].*
-*Code disponible sur demande / GitHub.*
-
-```
-
-### ✨ Les petits trucs à modifier :
-1.  **Screenshots :** Remplace les lignes `[Image Placeholder...]` par de vraies images `![Titre](chemin_vers_image.png)`.
-2.  **Lien GitHub :** Mets le lien de ton repo si tu en as un.
-3.  **Ton Nom :** Signe à la fin !
-
-```
