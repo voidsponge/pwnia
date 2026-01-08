@@ -1,0 +1,10 @@
+google-generativeai
+colorama
+chromadb
+selenium
+pillow
+pymetasploit3
+msgpack
+streamlit
+pandas
+watchdog
