@@ -45,15 +45,11 @@ L'agent repose sur une architecture modulaire dockerisée :
 
 ### 1. Le Terminal (Lancement & ASCII Art)
 *L'agent démarre avec une séquence de boot stylisée.*
-`[Image Placeholder: Terminal Startup]`
 
 ### 2. Le Dashboard C2 (Streamlit)
 *Surveillance en temps réel des ports, vulnérabilités et du flux vidéo.*
-`[Image Placeholder: Dashboard View]`
 
 ### 3. Le Rapport Final (HTML)
-*Exemple de rapport généré après une compromission réussie.*
-`[Image Placeholder: HTML Report]`
 
 ---
 
